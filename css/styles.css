@@ -1,0 +1,15 @@
+h1 {
+  font-style: bold;
+  text-align: center;
+  font-size: 100px;
+}
+
+h2 {
+  font-style: bold;
+  text-align: left;
+  color: green
+}
+
+p {
+  font-family: serif;
+}
